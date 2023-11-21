@@ -2,7 +2,7 @@
 
 ### <samp>&gt; I'm Tareez Ghandour</samp> 👩🏼‍💻
   • <samp>***I'm a Full Stack Developer***</samp> | <samp>***Software Engineering student***</samp> <br>
-#### Take a look at my website:  <a href="https://tareez-ghandour.web.app" target="_blank">***Portfolio***</a>
+#### Take a look at my  <a href="https://tareez-ghandour.web.app" target="_blank">***Portfolio***</a>
 ### Glad to see you here! 🌟 
 
 #### Feel free to reach out via the following channels:
