@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### <samp>&gt; I'm Tareez Ghandour</samp> 👩🏼‍💻
-  • <samp>***I'm a Full Stack Developer***</samp> | <samp>***Software Engineering student***</samp> <br>
+  • <samp>***I'm a Full Stack Developer***</samp> | <samp>***Software Engineering***</samp> <br>
 #### Take a look at my  <a href="https://www.tareezghandour.com/" target="_blank">***Portfolio***</a>
 ### Glad to see you here! 🌟 
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,ts,react,redux,nodejs,express,mongodb,mysql,vscode,visualstudio,androidstudio,idea,eclipse,figma,postman,unity,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,tailwind,vscode,visualstudio,androidstudio,idea,docker,eclipse,jest,styledcomponents,figma,postman,unity,firebase,git,github,gcp" />
   </a>
 </p>
 
